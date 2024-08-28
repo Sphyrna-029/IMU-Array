@@ -1,0 +1,5110 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "6fc2cf20-97f5-428b-b4f2-cc46fb7cae3a")
+	(paper "A4")
+	(lib_symbols
+		(symbol "BK-18650-PC2:BK-18650-PC2"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "BT"
+				(at -3.81 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "BK-18650-PC2"
+				(at -3.81 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "BK-18650-PC2:BAT_BK-18650-PC2"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "MPD (Memory Protection Devices)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "21.41 mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/BK-18650-PC2/Memory+Protection+Devices/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "F"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/BK-18650-PC2/Memory+Protection+Devices/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "BK-18650-PC2"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "\nBattery Holder (Open) 18650 1 Cell PC Pin\n"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "MPD"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "BK-18650-PC2_0_0"
+				(polyline
+					(pts
+						(xy -3.81 1.905) (xy -2.54 1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.175 2.54) (xy -3.175 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -1.27 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 2.54) (xy -1.27 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 1.27 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -7.62 0 0)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "+"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 0 180)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "-"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "PCM_SL_Breakout_Boards:MPU6050"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at -6.35 13.97 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MPU6050"
+				(at -7.62 11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "PCM_SL_Breakout_Boards:MPU6050_Breakout"
+				(at 1.27 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at -11.43 12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "MPU6050 Breakout Board, 6-Axis Motion Sensor, Gyroscope, Accelerometer"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "MPU6050"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MPU6050_0_0"
+				(circle
+					(center 2.54 -10.16)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(text "X"
+					(at 2.54 -7.366 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(text "Y"
+					(at 5.08 -10.16 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(symbol "MPU6050_0_1"
+				(rectangle
+					(start -6.35 10.16)
+					(end 6.35 -12.7)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -8.128) (xy 2.032 -8.636)
+					)
+					(stroke
+						(width 0.3)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -8.128) (xy 3.048 -8.636)
+					)
+					(stroke
+						(width 0.3)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.572 -10.16) (xy 4.064 -10.668)
+					)
+					(stroke
+						(width 0.3)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.572 -10.16) (xy 4.064 -9.652)
+					)
+					(stroke
+						(width 0.3)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -8.128) (xy 2.54 -10.16) (xy 4.572 -10.16)
+					)
+					(stroke
+						(width 0.3)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "MPU6050_1_1"
+				(pin bidirectional line
+					(at 8.89 -3.81 180)
+					(length 2.54)
+					(name "INT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -8.89 3.81 0)
+					(length 2.54)
+					(name "ADO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -8.89 -1.27 0)
+					(length 2.54)
+					(name "XCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -8.89 -3.81 0)
+					(length 2.54)
+					(name "XDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 8.89 1.27 180)
+					(length 2.54)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 8.89 3.81 180)
+					(length 2.54)
+					(name "SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -15.24 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 12.7 270)
+					(length 2.54)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "PCM_SL_Development_Board:Raspberry_Pi_Pico_SMD"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "A"
+				(at 12.7 34.29 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Raspberry_Pi_Pico_SMD"
+				(at 21.59 31.75 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "PCM_SL_Development_Boards:raspberry_pi_pico_SMD"
+				(at 0 -26.67 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Development Board with RP2040 MCU "
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "RaspberryPi RP2040"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Raspberry_Pi_Pico_SMD_0_1"
+				(rectangle
+					(start -15.24 29.21)
+					(end 15.24 -33.02)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "Raspberry_Pi_Pico_SMD_1_1"
+				(pin bidirectional line
+					(at -17.78 20.32 0)
+					(length 2.54)
+					(name "GP0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -17.78 0 0)
+					(length 2.54)
+					(name "GP7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -17.78 -2.54 0)
+					(length 2.54)
+					(name "GP8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -17.78 -5.08 0)
+					(length 2.54)
+					(name "GP9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -3.81 -35.56 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -17.78 -8.89 0)
+					(length 2.54)
+					(name "GP10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -17.78 -11.43 0)
+					(length 2.54)
+					(name "GP11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -17.78 -13.97 0)
+					(length 2.54)
+					(name "GP12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -17.78 -16.51 0)
+					(length 2.54)
+					(name "GP13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -1.27 -35.56 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -17.78 -20.32 0)
+					(length 2.54)
+					(name "GP14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -17.78 17.78 0)
+					(length 2.54)
+					(name "GP1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -17.78 -22.86 0)
+					(length 2.54)
+					(name "GP15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 17.78 -22.86 180)
+					(length 2.54)
+					(name "GP16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 17.78 -20.32 180)
+					(length 2.54)
+					(name "GP17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 1.27 -35.56 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 17.78 -16.51 180)
+					(length 2.54)
+					(name "GP18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 17.78 -13.97 180)
+					(length 2.54)
+					(name "GP19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 17.78 -11.43 180)
+					(length 2.54)
+					(name "GP20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 17.78 -8.89 180)
+					(length 2.54)
+					(name "GP21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "27"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 3.81 -35.56 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 17.78 -5.08 180)
+					(length 2.54)
+					(name "GP22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "29"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -8.89 -35.56 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 17.78 -2.54 180)
+					(length 2.54)
+					(name "RUN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "30"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 17.78 0 180)
+					(length 2.54)
+					(name "ADC0/GP26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 17.78 2.54 180)
+					(length 2.54)
+					(name "ADC1/GP27"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 6.35 -35.56 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "33"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 17.78 6.35 180)
+					(length 2.54)
+					(name "ADC2/GP28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "34"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 17.78 8.89 180)
+					(length 2.54)
+					(name "ADC_VREF"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 8.89 31.75 270)
+					(length 2.54)
+					(name "3V3(OUT)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "36"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 17.78 13.97 180)
+					(length 2.54)
+					(name "~{3V3_EN}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "37"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 8.89 -35.56 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "38"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -6.35 31.75 270)
+					(length 2.54)
+					(name "VSYS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "39"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -17.78 13.97 0)
+					(length 2.54)
+					(name "GP2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 1.27 31.75 270)
+					(length 2.54)
+					(name "VBUS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "40"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -17.78 11.43 0)
+					(length 2.54)
+					(name "GP3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -17.78 8.89 0)
+					(length 2.54)
+					(name "GP4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -17.78 6.35 0)
+					(length 2.54)
+					(name "GP5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -6.35 -35.56 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -17.78 2.54 0)
+					(length 2.54)
+					(name "GP6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "PCM_SL_Mechanical:MountingHole_M3"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole_M3"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "3.2mm Diameter Mounting Hole (M3)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "Mounting Hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_M3_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 1.7961)
+					(stroke
+						(width 2)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+		)
+	)
+	(junction
+		(at 127 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0693ffbf-0cde-447d-a829-57270758f119")
+	)
+	(junction
+		(at 231.14 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "09e1f11e-662e-4a2f-8716-eb896c6e2c7a")
+	)
+	(junction
+		(at 204.47 127)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0ab7f81a-95e3-48bd-a31e-87a9193c5d61")
+	)
+	(junction
+		(at 236.22 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2fb329e6-48eb-4737-8cd6-0122ae72ffd2")
+	)
+	(junction
+		(at 81.28 146.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "47458d08-c2ef-460b-a79e-15c5c1630e0f")
+	)
+	(junction
+		(at 128.27 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4aa158ee-65f7-43d6-b30b-43f22334b25e")
+	)
+	(junction
+		(at 228.6 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "628aa123-3a5c-41fe-b45a-303edb1e1f1c")
+	)
+	(junction
+		(at 189.23 127)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9085d471-6290-450a-8edd-a13fb8159238")
+	)
+	(junction
+		(at 238.76 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ab66acae-a733-4653-b38f-0a1ef238e378")
+	)
+	(junction
+		(at 243.84 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b6c1e949-c4e4-4125-ac99-5c74f731cf30")
+	)
+	(junction
+		(at 233.68 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c869cc2a-fdea-4d72-8b21-f0394dc16419")
+	)
+	(junction
+		(at 81.28 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cdf12a59-9796-4fad-b37f-b851331b779e")
+	)
+	(junction
+		(at 241.3 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e498c73b-428a-4c88-bafd-1cce4f47b5ed")
+	)
+	(junction
+		(at 81.28 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ee4812cf-c0bc-4a85-9fa4-6954bbbc583d")
+	)
+	(junction
+		(at 128.27 146.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fad33d64-05d7-485f-b0f7-b85c2c0c35e0")
+	)
+	(wire
+		(pts
+			(xy 26.67 120.65) (xy 26.67 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03985cce-7089-4ea8-b561-62e40f11131b")
+	)
+	(wire
+		(pts
+			(xy 81.28 113.03) (xy 81.28 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d79d726-4a36-4a5c-b75d-6afc42aa1641")
+	)
+	(wire
+		(pts
+			(xy 231.14 93.98) (xy 233.68 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1050b767-bf09-4433-b393-90b556e83613")
+	)
+	(wire
+		(pts
+			(xy 137.16 129.54) (xy 148.59 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15b91179-05b4-4fd5-9cc0-dfecb480e63f")
+	)
+	(wire
+		(pts
+			(xy 72.39 120.65) (xy 72.39 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15b9c400-fcf5-4eae-a5a9-f341d024a780")
+	)
+	(wire
+		(pts
+			(xy 252.73 81.28) (xy 259.08 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a59a6cf-3abc-453c-896b-4f2b98a49e94")
+	)
+	(wire
+		(pts
+			(xy 90.17 38.1) (xy 101.6 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cf2e1b8-55b6-4217-a964-77fdc94a1cbf")
+	)
+	(wire
+		(pts
+			(xy 90.17 129.54) (xy 101.6 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1db37e73-308e-426f-83fb-ed48e8268abb")
+	)
+	(wire
+		(pts
+			(xy 189.23 113.03) (xy 189.23 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f74f4fc-79ff-4b9b-83cc-82d98eebb7a6")
+	)
+	(wire
+		(pts
+			(xy 127 22.86) (xy 127 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "237bd3a6-66ba-4711-bad3-47a455cef85b")
+	)
+	(wire
+		(pts
+			(xy 81.28 100.33) (xy 128.27 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c694841-7eb8-4028-86c6-86ca1554bcce")
+	)
+	(wire
+		(pts
+			(xy 127 54.61) (xy 157.48 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c88ead1-33cd-433e-8fcc-34d36308910b")
+	)
+	(wire
+		(pts
+			(xy 236.22 21.59) (xy 236.22 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b25ed6d-8c97-403c-bc16-bca4465cdbf7")
+	)
+	(wire
+		(pts
+			(xy 35.56 146.05) (xy 81.28 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40efe83f-bd00-4171-ba8e-b4986171ac9a")
+	)
+	(wire
+		(pts
+			(xy 44.45 35.56) (xy 55.88 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41ed65b1-34e6-436e-a137-d665c6118d44")
+	)
+	(wire
+		(pts
+			(xy 81.28 54.61) (xy 127 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "439c269b-e3fd-46d5-8301-027a275b43a8")
+	)
+	(wire
+		(pts
+			(xy 226.06 93.98) (xy 228.6 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5033ce52-54a6-4932-ba02-479f0ff661ee")
+	)
+	(wire
+		(pts
+			(xy 137.16 83.82) (xy 147.32 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "558d0c33-86e8-4ae8-ad65-99e02d2f7be8")
+	)
+	(wire
+		(pts
+			(xy 81.28 67.31) (xy 81.28 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b9e09a5-1b60-4c25-a2fe-ca5960a4f10d")
+	)
+	(wire
+		(pts
+			(xy 212.09 40.64) (xy 217.17 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d105a5a-f464-4993-8354-28a54109231d")
+	)
+	(wire
+		(pts
+			(xy 26.67 74.93) (xy 26.67 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ec4a2b3-97a0-4283-a6e0-49a45b129a43")
+	)
+	(wire
+		(pts
+			(xy 35.56 22.86) (xy 35.56 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61e93535-3d8e-4b7b-ae70-00ae1f389168")
+	)
+	(wire
+		(pts
+			(xy 137.16 81.28) (xy 147.32 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66a9111f-b0ba-4186-af2e-8122973fbbce")
+	)
+	(wire
+		(pts
+			(xy 135.89 38.1) (xy 147.32 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66f38c27-5f31-44ad-8e07-5275c106ec17")
+	)
+	(wire
+		(pts
+			(xy 128.27 67.31) (xy 128.27 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69d19ff4-4be3-4741-8eb4-dc1ca134c305")
+	)
+	(wire
+		(pts
+			(xy 44.45 38.1) (xy 55.88 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ab86b51-890e-40bc-a43d-fde7de07c621")
+	)
+	(wire
+		(pts
+			(xy 72.39 29.21) (xy 72.39 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6cd87f48-3816-440e-a102-75780f202e90")
+	)
+	(wire
+		(pts
+			(xy 228.6 93.98) (xy 231.14 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ec28089-a925-4e16-9248-fde109852699")
+	)
+	(wire
+		(pts
+			(xy 81.28 22.86) (xy 81.28 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70118b9c-b6ba-4482-a70b-b26ae9ad4f6b")
+	)
+	(wire
+		(pts
+			(xy 118.11 29.21) (xy 118.11 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "704d8be7-8a62-48ac-892b-dce7dc816a8b")
+	)
+	(wire
+		(pts
+			(xy 212.09 55.88) (xy 217.17 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72a6900b-be8e-4b72-b78f-c59f8951f027")
+	)
+	(wire
+		(pts
+			(xy 119.38 120.65) (xy 119.38 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73674302-3ce3-4795-b1c0-c24ffadf92a8")
+	)
+	(wire
+		(pts
+			(xy 212.09 44.45) (xy 217.17 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7628b012-dc46-4764-9cf0-69abb7956d90")
+	)
+	(wire
+		(pts
+			(xy 243.84 21.59) (xy 243.84 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f563a9c-ec83-4a4d-a50a-a9faea0d5817")
+	)
+	(wire
+		(pts
+			(xy 238.76 93.98) (xy 241.3 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "837fe06a-2356-43ec-9978-e3e079626fa1")
+	)
+	(wire
+		(pts
+			(xy 26.67 29.21) (xy 26.67 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8415c3b3-86fe-4c77-99b4-e18a2e095efb")
+	)
+	(wire
+		(pts
+			(xy 128.27 100.33) (xy 157.48 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "845bde80-7608-4fd7-a4a9-d20b8837b0c1")
+	)
+	(wire
+		(pts
+			(xy 90.17 127) (xy 101.6 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c69e47c-3fff-419d-9d0f-584cfcbd9f71")
+	)
+	(wire
+		(pts
+			(xy 90.17 81.28) (xy 101.6 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e489c77-493e-426a-9acc-49f129c66b60")
+	)
+	(wire
+		(pts
+			(xy 204.47 113.03) (xy 204.47 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "909186a1-4d8f-4607-9cda-1b8549153205")
+	)
+	(wire
+		(pts
+			(xy 212.09 46.99) (xy 217.17 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9378e9a6-d0f5-4897-bd1d-ab680049b3f6")
+	)
+	(wire
+		(pts
+			(xy 128.27 113.03) (xy 128.27 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9844cfd8-585d-4157-bb14-10e61059e523")
+	)
+	(wire
+		(pts
+			(xy 212.09 49.53) (xy 217.17 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a875386b-a7f5-4de8-8e6e-06a9f4f8bd73")
+	)
+	(wire
+		(pts
+			(xy 252.73 78.74) (xy 259.08 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a99c7add-9ffd-479d-90f1-514b071f1c42")
+	)
+	(wire
+		(pts
+			(xy 233.68 93.98) (xy 236.22 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa409ad9-dac0-4639-aa68-fad56315f15c")
+	)
+	(wire
+		(pts
+			(xy 35.56 54.61) (xy 81.28 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "acb4d3e2-f2d0-4c70-bb7e-9cd6089f167e")
+	)
+	(wire
+		(pts
+			(xy 72.39 74.93) (xy 72.39 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ade6ae02-d176-4ee9-b930-5dbfdce477f8")
+	)
+	(wire
+		(pts
+			(xy 35.56 100.33) (xy 81.28 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0035edb-f444-4ae3-af05-1cb676efaabc")
+	)
+	(wire
+		(pts
+			(xy 189.23 127) (xy 189.23 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0ecd7fb-a998-47df-b869-af80f85ca468")
+	)
+	(wire
+		(pts
+			(xy 204.47 127) (xy 204.47 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b13c2383-ccb5-4b8d-a1eb-070922f41f56")
+	)
+	(wire
+		(pts
+			(xy 212.09 58.42) (xy 217.17 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b44de7d7-cbc7-4797-91ac-7bd960de2bcb")
+	)
+	(wire
+		(pts
+			(xy 90.17 83.82) (xy 101.6 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5cc13c6-79bf-4fff-ab75-a708f9bb85ed")
+	)
+	(wire
+		(pts
+			(xy 44.45 127) (xy 54.61 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b88fe5f0-98ad-4754-ab2b-d93f98defaf3")
+	)
+	(wire
+		(pts
+			(xy 212.09 52.07) (xy 217.17 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8e298d6-6fa7-4ed7-b6c0-013737c34b2b")
+	)
+	(wire
+		(pts
+			(xy 119.38 74.93) (xy 119.38 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b98a4808-788f-42d2-ba2b-7f2fc4dd57de")
+	)
+	(wire
+		(pts
+			(xy 128.27 146.05) (xy 157.48 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bab4d353-2347-4522-97da-6b8a1336c34a")
+	)
+	(wire
+		(pts
+			(xy 44.45 83.82) (xy 54.61 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bda566d1-68b9-4305-a953-2d27ce48633c")
+	)
+	(wire
+		(pts
+			(xy 236.22 93.98) (xy 238.76 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf18a70d-1c36-43aa-8bb6-3a36addd0bec")
+	)
+	(wire
+		(pts
+			(xy 212.09 60.96) (xy 217.17 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6ce29fe-9a6f-4c06-9e89-0a9c85a64df1")
+	)
+	(wire
+		(pts
+			(xy 243.84 93.98) (xy 243.84 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d00710bd-da8d-4ddb-afc7-60e55ad34a47")
+	)
+	(wire
+		(pts
+			(xy 135.89 35.56) (xy 147.32 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2bf9096-ef10-461a-abc1-6dd6ee2cae1d")
+	)
+	(wire
+		(pts
+			(xy 44.45 81.28) (xy 54.61 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d84a4aca-67f8-4587-9c24-e977a89f6fc1")
+	)
+	(wire
+		(pts
+			(xy 35.56 113.03) (xy 35.56 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ddee297f-f0ad-4f05-88eb-5f22c636632c")
+	)
+	(wire
+		(pts
+			(xy 212.09 38.1) (xy 217.17 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4938d4f-2b09-4b4d-94a9-72b5696406af")
+	)
+	(wire
+		(pts
+			(xy 137.16 127) (xy 148.59 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8bbe5dc-5871-4878-893f-e0d2d87359e4")
+	)
+	(wire
+		(pts
+			(xy 35.56 67.31) (xy 35.56 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec73cc68-38cf-463b-9e75-a2371b1df867")
+	)
+	(wire
+		(pts
+			(xy 90.17 35.56) (xy 101.6 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eda48788-8f78-4b79-9081-e1a0115ce04f")
+	)
+	(wire
+		(pts
+			(xy 241.3 93.98) (xy 243.84 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "efd8b8d8-6ebc-4fe8-9f49-a2c276b5c291")
+	)
+	(wire
+		(pts
+			(xy 44.45 129.54) (xy 54.61 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5c4777b-ae1b-44a1-9a7c-820d8babaac6")
+	)
+	(wire
+		(pts
+			(xy 81.28 146.05) (xy 128.27 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb67049b-5c8c-4cf6-825c-b0589b166bc7")
+	)
+	(global_label "MPU8"
+		(shape input)
+		(at 212.09 58.42 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "01081166-64f3-46cb-bc5a-48d75aa6c5c5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 203.8434 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MPU6"
+		(shape input)
+		(at 212.09 52.07 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "073c2d12-7960-4be7-91bd-f804a289b0d0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 203.8434 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SCL"
+		(shape input)
+		(at 101.6 127 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "09bb5c11-bb89-445d-948d-eba555808c89")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 108.0928 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 204.47 134.62 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0e47fadb-8cd9-4040-9f70-710ef0e6f790")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 204.47 141.4757 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3v3"
+		(shape input)
+		(at 127 22.86 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "19f3eea8-2db6-493f-b3e6-09aefe682f80")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 127 16.4882 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SDA"
+		(shape input)
+		(at 55.88 38.1 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2216791d-f40f-4d1f-8ff0-078e8b0f10a7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 62.4333 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MPU9"
+		(shape input)
+		(at 212.09 60.96 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "36dd4594-04f4-41b8-9f97-f8b5bfea02d4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 203.8434 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SDA"
+		(shape input)
+		(at 101.6 129.54 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4015e8bd-55c7-465d-bc19-739b0eb75517")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 108.1533 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SDA"
+		(shape input)
+		(at 54.61 129.54 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "451e9c6f-62d6-4c37-ac6c-c9e2dacd6736")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 61.1633 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SCL"
+		(shape input)
+		(at 55.88 35.56 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "45a24804-302c-477a-9871-c942ffe83039")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 62.3728 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MPU5"
+		(shape input)
+		(at 212.09 49.53 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4a299375-5dea-48bd-8ce9-d9d5a4fdfc9a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 203.8434 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 157.48 100.33 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4a44b310-da63-432d-8061-9b1643e630cd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 164.3357 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MPU3"
+		(shape input)
+		(at 212.09 44.45 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "520164d5-f7d9-4e45-b518-504df110f2d3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 203.8434 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SCL"
+		(shape input)
+		(at 101.6 81.28 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "538ff68a-91c0-48ad-baa6-da243cbe5872")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 108.0928 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SDA"
+		(shape input)
+		(at 148.59 129.54 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "55ca3851-ba91-4fbd-978b-48f8f16e70ba")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 155.1433 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MPU8"
+		(shape input)
+		(at 72.39 120.65 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5d12028a-146d-4fad-86f6-92035d7ca04b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 72.39 112.4034 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MPU2"
+		(shape input)
+		(at 212.09 40.64 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5d4dbe15-f903-490a-b2df-43ccaba5962a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 203.8434 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3v3"
+		(shape input)
+		(at 128.27 113.03 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6a07161c-a9e7-4423-ab09-cd88a4003ac7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 128.27 106.6582 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SCL"
+		(shape input)
+		(at 259.08 78.74 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "75ed3c89-e018-4bb9-bd43-833f7b5a9a6e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 265.5728 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 157.48 146.05 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7a98ca99-094b-48f6-8915-68a11f9e9520")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 164.3357 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SDA"
+		(shape input)
+		(at 147.32 83.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7cf72351-b0e9-4a91-9725-625cb4a6a115")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 153.8733 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SDA"
+		(shape input)
+		(at 101.6 83.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7deb05b0-1771-487a-90df-3a92938398ba")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 108.1533 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SDA"
+		(shape input)
+		(at 147.32 38.1 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "843eacf9-73f8-4e27-9194-18fed6fd8eb7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 153.8733 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3v3"
+		(shape input)
+		(at 128.27 67.31 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "84ce0eee-addc-4329-bed3-1703d681ff6c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 128.27 60.9382 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SCL"
+		(shape input)
+		(at 54.61 81.28 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "85adf6f5-2cb5-44e9-9674-a00cd58217ee")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 61.1028 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MPU4"
+		(shape input)
+		(at 26.67 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "88dd22b1-1d35-4afa-9449-a8e467e38067")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 26.67 66.6834 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MPU1"
+		(shape input)
+		(at 26.67 29.21 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8c85ca81-6933-4579-995d-9f9ba556cd2c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 26.67 20.9634 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MPU9"
+		(shape input)
+		(at 119.38 120.65 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "984cabee-ea20-409f-bfb1-5a4d63dd3bdb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.38 112.4034 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3v3"
+		(shape input)
+		(at 81.28 22.86 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "98f778b0-c528-4917-a306-c32b9973a159")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 81.28 16.4882 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MPU2"
+		(shape input)
+		(at 72.39 29.21 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "99c8ebc4-2ab6-4b4f-a625-639c7e75fc90")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 72.39 20.9634 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SCL"
+		(shape input)
+		(at 147.32 81.28 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a13800bd-cfcc-48bc-ae2c-fcf8516a8929")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 153.8128 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3v3"
+		(shape input)
+		(at 35.56 113.03 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a34e248f-ef09-4b6b-8b7b-3cd665d4d496")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 35.56 106.6582 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SCL"
+		(shape input)
+		(at 147.32 35.56 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a965f790-f5ec-4dd8-8cc5-1ad664bec1ed")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 153.8128 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SCL"
+		(shape input)
+		(at 101.6 35.56 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a9fffc69-04e0-4890-955e-e3b48a736619")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 108.0928 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MPU1"
+		(shape input)
+		(at 212.09 38.1 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "afec18eb-e9c3-4e65-a8ff-c5c3a87698ab")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 203.8434 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3v3"
+		(shape input)
+		(at 35.56 67.31 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b0cd26ff-3cab-4406-b583-2e213ca59eac")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 35.56 60.9382 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SCL"
+		(shape input)
+		(at 54.61 127 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b44b3966-0bd3-43a9-b0f2-99035e2ca8f0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 61.1028 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 243.84 97.79 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b7e05e71-a097-44b5-8db3-5ef17d7a7903")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 243.84 104.6457 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MPU7"
+		(shape input)
+		(at 26.67 120.65 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bb8f9ada-5e00-41a8-8250-9718daeeb312")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 26.67 112.4034 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 157.48 54.61 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c526a393-7bd4-4441-90a3-fcd3af0eb267")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 164.3357 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BATT+"
+		(shape input)
+		(at 236.22 21.59 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c5414977-ba79-4a9c-8087-f7e385bad371")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 236.22 12.7386 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3v3"
+		(shape input)
+		(at 243.84 21.59 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c55c3e56-3392-4fa4-8b57-e0970a69c148")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 243.84 15.2182 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SDA"
+		(shape input)
+		(at 54.61 83.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c8e881f1-1bc4-4451-aa32-885a3b36d7bf")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 61.1633 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SCL"
+		(shape input)
+		(at 148.59 127 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d51705f7-1ff8-4e15-b1cb-5d55b55002c3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 155.0828 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SDA"
+		(shape input)
+		(at 101.6 38.1 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "da6a476d-4465-4ade-aa79-ad5c3e76316e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 108.1533 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MPU5"
+		(shape input)
+		(at 72.39 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "dab1c883-5499-4eb2-92ac-d07002b0be1b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 72.39 66.6834 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MPU3"
+		(shape input)
+		(at 118.11 29.21 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "deeafc08-ee57-4f8e-93d6-b5c29c70a239")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 118.11 20.9634 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MPU4"
+		(shape input)
+		(at 212.09 46.99 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e79c7aad-4db5-4ecb-8e3f-3ee7ca2dd1b5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 203.8434 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3v3"
+		(shape input)
+		(at 35.56 22.86 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ed6b7259-fb30-4fc5-98ec-ef1ebf341929")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 35.56 16.4882 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MPU7"
+		(shape input)
+		(at 212.09 55.88 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ed97cebc-20e5-4dca-806c-ef41d2720e0f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 203.8434 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3v3"
+		(shape input)
+		(at 81.28 113.03 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ee86b121-bc62-49a4-80a5-15af3b08409e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 81.28 106.6582 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3v3"
+		(shape input)
+		(at 81.28 67.31 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f046f724-86b6-4f35-b3a7-86832e5bc80a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 81.28 60.9382 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SDA"
+		(shape input)
+		(at 259.08 81.28 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f8631318-5dc3-4883-917a-8a24da701360")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 265.6333 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BATT+"
+		(shape input)
+		(at 189.23 134.62 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f922d3a9-2365-466e-b291-48bda5e7aca4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 189.23 143.4714 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MPU6"
+		(shape input)
+		(at 119.38 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fc420b92-2bbd-4c89-ad9b-b2f81a86a5cb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.38 66.6834 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(symbol
+		(lib_id "BK-18650-PC2:BK-18650-PC2")
+		(at 196.85 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "28954832-e12e-46b4-9f44-2d34e4ca7cb0")
+		(property "Reference" "BT1"
+			(at 196.215 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BK-18650-PC2"
+			(at 196.215 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "BK-18650-PC2:BAT_BK-18650-PC2"
+			(at 196.85 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 196.85 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "MPD (Memory Protection Devices)"
+			(at 196.85 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "21.41 mm"
+			(at 196.85 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 196.85 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 196.85 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/BK-18650-PC2/Memory+Protection+Devices/view-part/?ref=eda"
+			(at 196.85 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 196.85 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "F"
+			(at 196.85 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BK-18650-PC2/Memory+Protection+Devices/view-part/?ref=snap"
+			(at 196.85 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "BK-18650-PC2"
+			(at 196.85 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\nBattery Holder (Open) 18650 1 Cell PC Pin\n"
+			(at 196.85 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 196.85 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "MPD"
+			(at 196.85 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "-"
+			(uuid "d814d998-244b-447a-b373-de6d090de8df")
+		)
+		(pin "+"
+			(uuid "391473da-d692-445c-9097-0014adf01cd6")
+		)
+		(instances
+			(project ""
+				(path "/6fc2cf20-97f5-428b-b4f2-cc46fb7cae3a"
+					(reference "BT1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_SL_Mechanical:MountingHole_M3")
+		(at 255.27 119.38 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2f0e44fc-fc76-4398-85f3-cb92d7671ba3")
+		(property "Reference" "H2"
+			(at 259.08 118.1099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_M3"
+			(at 259.08 120.6499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 255.27 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 255.27 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "3.2mm Diameter Mounting Hole (M3)"
+			(at 255.27 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "imu-array"
+				(path "/6fc2cf20-97f5-428b-b4f2-cc46fb7cae3a"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_SL_Breakout_Boards:MPU6050")
+		(at 35.56 130.81 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "330a866b-b11a-45fa-90cb-230015616d69")
+		(property "Reference" "U7"
+			(at 37.7541 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MPU6050"
+			(at 37.7541 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_SL_Breakout_Boards:MPU6050_Breakout"
+			(at 36.83 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 24.13 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "MPU6050 Breakout Board, 6-Axis Motion Sensor, Gyroscope, Accelerometer"
+			(at 35.56 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "d7fd83d1-9f56-4968-94d0-25a256b1f29d")
+		)
+		(pin "2"
+			(uuid "07c14fce-43fb-4748-b304-32be32f24dfe")
+		)
+		(pin "6"
+			(uuid "98bb242e-f390-4d6b-ba29-dd31c408d645")
+		)
+		(pin "3"
+			(uuid "6c5efd86-15d0-4f8e-bd54-c8b89920465c")
+		)
+		(pin "1"
+			(uuid "8243d171-14b3-438c-ae04-200cdef300f3")
+		)
+		(pin "5"
+			(uuid "cdbbb50d-390a-48b4-bc4c-2561c01429ce")
+		)
+		(pin "8"
+			(uuid "d6043866-40f2-4dc9-b414-a11b7c0eed9a")
+		)
+		(pin "4"
+			(uuid "805e1172-326e-4af8-9779-7744614131b2")
+		)
+		(instances
+			(project "imu-array"
+				(path "/6fc2cf20-97f5-428b-b4f2-cc46fb7cae3a"
+					(reference "U7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_SL_Mechanical:MountingHole_M3")
+		(at 255.27 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "518c02b2-0b59-4b65-bf5d-532825833d66")
+		(property "Reference" "H3"
+			(at 259.08 125.7299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_M3"
+			(at 259.08 128.2699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 255.27 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 255.27 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "3.2mm Diameter Mounting Hole (M3)"
+			(at 255.27 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "imu-array"
+				(path "/6fc2cf20-97f5-428b-b4f2-cc46fb7cae3a"
+					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_SL_Breakout_Boards:MPU6050")
+		(at 35.56 85.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5978dd0e-75b1-4334-bc08-32285dfbc846")
+		(property "Reference" "U4"
+			(at 37.7541 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MPU6050"
+			(at 37.7541 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_SL_Breakout_Boards:MPU6050_Breakout"
+			(at 36.83 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 24.13 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "MPU6050 Breakout Board, 6-Axis Motion Sensor, Gyroscope, Accelerometer"
+			(at 35.56 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "25e36262-1c60-48ff-8c48-8ff494c00367")
+		)
+		(pin "2"
+			(uuid "7c9946c6-2f6f-4eeb-ad41-29f0a5a82543")
+		)
+		(pin "6"
+			(uuid "0e455a9a-8378-450c-801b-08343c6ea464")
+		)
+		(pin "3"
+			(uuid "74e70047-0180-43f0-a5a8-8897aa118fe9")
+		)
+		(pin "1"
+			(uuid "2d31de1f-fc09-4751-bd8d-d0b33ec659f8")
+		)
+		(pin "5"
+			(uuid "dcd335ec-49b6-4de2-bea3-6010cd2c2ae0")
+		)
+		(pin "8"
+			(uuid "8057a162-1d53-4202-b3f3-2996f3078dc3")
+		)
+		(pin "4"
+			(uuid "5d6d7d14-ea3c-4e4f-8294-ae96bc58474a")
+		)
+		(instances
+			(project "imu-array"
+				(path "/6fc2cf20-97f5-428b-b4f2-cc46fb7cae3a"
+					(reference "U4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_SL_Breakout_Boards:MPU6050")
+		(at 81.28 39.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5bf4334a-d364-4ff6-a108-d0eb2e680b55")
+		(property "Reference" "U2"
+			(at 83.4741 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MPU6050"
+			(at 83.4741 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_SL_Breakout_Boards:MPU6050_Breakout"
+			(at 82.55 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 69.85 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "MPU6050 Breakout Board, 6-Axis Motion Sensor, Gyroscope, Accelerometer"
+			(at 81.28 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "3d59f193-16b9-4aac-ba2d-939b51eff400")
+		)
+		(pin "2"
+			(uuid "3a7cab07-cff9-48fc-9de5-3b32b51e648a")
+		)
+		(pin "6"
+			(uuid "a71eae19-0e85-4fdb-a856-7d0adbfc4d86")
+		)
+		(pin "3"
+			(uuid "641745cd-bdfd-4f9c-946e-463adf3ff46e")
+		)
+		(pin "1"
+			(uuid "5d53687b-970b-45d1-8fff-c3a48877e204")
+		)
+		(pin "5"
+			(uuid "c86318df-c02a-460a-ae55-95c31b2e323b")
+		)
+		(pin "8"
+			(uuid "2b379ea5-5aac-49a9-af85-5b11b6fc681e")
+		)
+		(pin "4"
+			(uuid "566bf491-6c2c-4580-a1c7-4d2c92fb70b4")
+		)
+		(instances
+			(project "imu-array"
+				(path "/6fc2cf20-97f5-428b-b4f2-cc46fb7cae3a"
+					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_SL_Breakout_Boards:MPU6050")
+		(at 127 39.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7a0af259-d194-40ff-af71-0d673c527154")
+		(property "Reference" "U3"
+			(at 129.1941 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MPU6050"
+			(at 129.1941 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_SL_Breakout_Boards:MPU6050_Breakout"
+			(at 128.27 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 115.57 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "MPU6050 Breakout Board, 6-Axis Motion Sensor, Gyroscope, Accelerometer"
+			(at 127 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "133d2fd3-38bc-4c5b-9ed4-2bf9de4f5875")
+		)
+		(pin "2"
+			(uuid "5c9b97d2-5002-4359-a7d3-bb7e661e9ef6")
+		)
+		(pin "6"
+			(uuid "6def4ebc-e57a-4b94-833e-11d749fd76be")
+		)
+		(pin "3"
+			(uuid "a788c433-4d09-4383-afd5-66efab9f43b2")
+		)
+		(pin "1"
+			(uuid "99dc2170-de81-40d1-93d6-af04f9904f0c")
+		)
+		(pin "5"
+			(uuid "4af8ce8b-eaa9-4e5c-b2ba-59883f1459e0")
+		)
+		(pin "8"
+			(uuid "9e784f8e-7430-4519-a4b9-9a9ca523f3ac")
+		)
+		(pin "4"
+			(uuid "35b0f8df-df35-4f09-8600-82a500f71bcb")
+		)
+		(instances
+			(project "imu-array"
+				(path "/6fc2cf20-97f5-428b-b4f2-cc46fb7cae3a"
+					(reference "U3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_SL_Breakout_Boards:MPU6050")
+		(at 128.27 85.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7ffa146f-27d5-4255-a289-1a9e6b7d7fa9")
+		(property "Reference" "U6"
+			(at 130.4641 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MPU6050"
+			(at 130.4641 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_SL_Breakout_Boards:MPU6050_Breakout"
+			(at 129.54 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 116.84 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "MPU6050 Breakout Board, 6-Axis Motion Sensor, Gyroscope, Accelerometer"
+			(at 128.27 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "c5d14867-5cf0-44f1-9164-658aac48b45a")
+		)
+		(pin "2"
+			(uuid "dfc6c232-393e-4ba1-ae64-b05ea44abf8e")
+		)
+		(pin "6"
+			(uuid "d7b563b3-22aa-475d-bddf-32acc4aa41e7")
+		)
+		(pin "3"
+			(uuid "a49a80ae-e8ec-4a3d-b79d-b75f33a59d48")
+		)
+		(pin "1"
+			(uuid "948da6c0-1ce5-4f61-b8d6-9856bfea4f6d")
+		)
+		(pin "5"
+			(uuid "d2e540fd-a0b4-4175-9f54-0ed729d3fb06")
+		)
+		(pin "8"
+			(uuid "ec1b7a27-e22f-4094-a36f-3098d5d03ea6")
+		)
+		(pin "4"
+			(uuid "6da2fa4b-5979-4dbb-a2cc-db24c623ffaf")
+		)
+		(instances
+			(project "imu-array"
+				(path "/6fc2cf20-97f5-428b-b4f2-cc46fb7cae3a"
+					(reference "U6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_SL_Breakout_Boards:MPU6050")
+		(at 81.28 85.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "98d5ad39-ef30-4516-81f7-003cfd427c35")
+		(property "Reference" "U5"
+			(at 83.4741 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MPU6050"
+			(at 83.4741 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_SL_Breakout_Boards:MPU6050_Breakout"
+			(at 82.55 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 69.85 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "MPU6050 Breakout Board, 6-Axis Motion Sensor, Gyroscope, Accelerometer"
+			(at 81.28 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "c45fecfc-a066-4ca4-a6e2-abf97643a6bf")
+		)
+		(pin "2"
+			(uuid "f3ae1019-9722-4aeb-b5a3-31adc08a947c")
+		)
+		(pin "6"
+			(uuid "367da5f4-b341-4c53-b718-1eb4ddd33cbb")
+		)
+		(pin "3"
+			(uuid "bac80c85-5927-4a2a-a5ac-90b83ecdd990")
+		)
+		(pin "1"
+			(uuid "dd0f18f6-1fe5-4429-8e6d-5b85d6e8f494")
+		)
+		(pin "5"
+			(uuid "afb3dc56-9cb4-44f7-9907-6b6f9902d056")
+		)
+		(pin "8"
+			(uuid "e551d4f4-9e44-4f60-9206-f428d91de1d2")
+		)
+		(pin "4"
+			(uuid "e5670c61-16bb-4c8e-b997-146766e5b9a8")
+		)
+		(instances
+			(project "imu-array"
+				(path "/6fc2cf20-97f5-428b-b4f2-cc46fb7cae3a"
+					(reference "U5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "BK-18650-PC2:BK-18650-PC2")
+		(at 196.85 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9919283f-6a4d-4cf0-bea8-2158e5400b25")
+		(property "Reference" "BT2"
+			(at 196.215 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BK-18650-PC2"
+			(at 196.215 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "BK-18650-PC2:BAT_BK-18650-PC2"
+			(at 196.85 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 196.85 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "MPD (Memory Protection Devices)"
+			(at 196.85 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "21.41 mm"
+			(at 196.85 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 196.85 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 196.85 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/BK-18650-PC2/Memory+Protection+Devices/view-part/?ref=eda"
+			(at 196.85 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 196.85 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "F"
+			(at 196.85 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BK-18650-PC2/Memory+Protection+Devices/view-part/?ref=snap"
+			(at 196.85 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "BK-18650-PC2"
+			(at 196.85 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\nBattery Holder (Open) 18650 1 Cell PC Pin\n"
+			(at 196.85 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 196.85 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "MPD"
+			(at 196.85 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "-"
+			(uuid "e436f44a-48a9-4182-9f23-4a79ff5fe420")
+		)
+		(pin "+"
+			(uuid "151a5c32-668f-4760-9994-d83d3e94ec42")
+		)
+		(instances
+			(project "imu-array"
+				(path "/6fc2cf20-97f5-428b-b4f2-cc46fb7cae3a"
+					(reference "BT2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_SL_Mechanical:MountingHole_M3")
+		(at 255.27 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ada19463-b625-4e34-9f76-ad53c142858b")
+		(property "Reference" "H1"
+			(at 259.08 110.4899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_M3"
+			(at 259.08 113.0299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 255.27 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 255.27 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "3.2mm Diameter Mounting Hole (M3)"
+			(at 255.27 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/6fc2cf20-97f5-428b-b4f2-cc46fb7cae3a"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_SL_Breakout_Boards:MPU6050")
+		(at 128.27 130.81 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b05271af-9df4-4b60-8566-875dd2c6402a")
+		(property "Reference" "U9"
+			(at 130.4641 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MPU6050"
+			(at 130.4641 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_SL_Breakout_Boards:MPU6050_Breakout"
+			(at 129.54 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 116.84 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "MPU6050 Breakout Board, 6-Axis Motion Sensor, Gyroscope, Accelerometer"
+			(at 128.27 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "b74cb568-9260-43f7-8e3a-a84589757e9a")
+		)
+		(pin "2"
+			(uuid "3487ebee-8189-4df3-984c-6fd25647c4e1")
+		)
+		(pin "6"
+			(uuid "5a61fb2b-4747-4fda-a6a6-66d4e9109f8b")
+		)
+		(pin "3"
+			(uuid "fd265a95-8c82-492d-8af8-2e8fd7f8e4a4")
+		)
+		(pin "1"
+			(uuid "7958589b-8c1f-4bde-97b3-c6abb8146a0c")
+		)
+		(pin "5"
+			(uuid "085c868e-fe91-4b17-8a0e-962d96309ced")
+		)
+		(pin "8"
+			(uuid "3cec4199-d9a4-4c4e-9336-eaf59871de99")
+		)
+		(pin "4"
+			(uuid "da750284-d887-41c3-bbaf-09ca6eddb4d1")
+		)
+		(instances
+			(project "imu-array"
+				(path "/6fc2cf20-97f5-428b-b4f2-cc46fb7cae3a"
+					(reference "U9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_SL_Mechanical:MountingHole_M3")
+		(at 255.27 134.62 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c9997fbb-e3fc-4a3e-8207-266ecc6331ee")
+		(property "Reference" "H4"
+			(at 259.08 133.3499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_M3"
+			(at 259.08 135.8899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 255.27 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 255.27 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "3.2mm Diameter Mounting Hole (M3)"
+			(at 255.27 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "imu-array"
+				(path "/6fc2cf20-97f5-428b-b4f2-cc46fb7cae3a"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_SL_Development_Board:Raspberry_Pi_Pico_SMD")
+		(at 234.95 58.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e056b8c4-9b2b-45ac-922e-b49430034674")
+		(property "Reference" "A1"
+			(at 246.0341 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Raspberry_Pi_Pico_SMD"
+			(at 246.0341 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_SL_Development_Boards:raspberry_pi_pico_SMD"
+			(at 234.95 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 234.95 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Development Board with RP2040 MCU"
+			(at 234.95 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "db03a701-e071-4c3f-bb2a-2f1cbb190af7")
+		)
+		(pin "28"
+			(uuid "404d698d-483a-4cba-9d26-549c5da71b30")
+		)
+		(pin "29"
+			(uuid "d30115f2-90fd-4bb2-ba94-8bfb6dbd99c7")
+		)
+		(pin "36"
+			(uuid "e2a8f5cb-6b28-4228-a1d4-20031b4e33e1")
+		)
+		(pin "10"
+			(uuid "e013456a-edc1-4e93-9de5-a0ce2d0375a6")
+		)
+		(pin "19"
+			(uuid "af74cceb-793e-4ca9-98a1-b520df209355")
+		)
+		(pin "22"
+			(uuid "391be9f9-0ce2-405a-8495-b337fe1426cc")
+		)
+		(pin "3"
+			(uuid "53792c90-bd44-4dda-a55a-31a000f8c289")
+		)
+		(pin "34"
+			(uuid "cbb87126-e9e9-48eb-b90c-e208b9170784")
+		)
+		(pin "4"
+			(uuid "6c401793-c7b6-4241-8b68-03d54cba5fd9")
+		)
+		(pin "7"
+			(uuid "0fb05052-e321-4514-bd7c-6c39b454cacb")
+		)
+		(pin "15"
+			(uuid "03f4cb72-f0b1-4815-8b84-c74e8057956b")
+		)
+		(pin "37"
+			(uuid "a2b3fa61-da7f-4bc3-ac73-1a1117e40d47")
+		)
+		(pin "5"
+			(uuid "d9f1fae2-f2cb-4d7a-8fb4-39376f00b54c")
+		)
+		(pin "16"
+			(uuid "b08f46ab-e04e-4620-b76b-7f811a36b0e7")
+		)
+		(pin "11"
+			(uuid "16be67f5-6e36-4dd1-9557-9e3c4d73b53d")
+		)
+		(pin "23"
+			(uuid "ca8b8468-a715-4759-9621-8e6bbc149cbd")
+		)
+		(pin "30"
+			(uuid "4ae73d94-a3c6-4d2f-8a25-b8e1337b78e4")
+		)
+		(pin "14"
+			(uuid "85ca8f98-e518-48a2-beb6-818803dd48fe")
+		)
+		(pin "6"
+			(uuid "201f63f6-7bc2-4871-9dc7-96d88c9da8ad")
+		)
+		(pin "8"
+			(uuid "ce5b9f42-58de-435a-a7c6-4d5ab482d7c4")
+		)
+		(pin "35"
+			(uuid "0a74c261-4b2e-4f43-9b86-22376689b5bd")
+		)
+		(pin "32"
+			(uuid "a4b0f456-6a60-4354-8189-341bee3d1e35")
+		)
+		(pin "13"
+			(uuid "75d07f0c-a245-456c-a0fb-7d583775dbe9")
+		)
+		(pin "20"
+			(uuid "e5e20d2e-6d79-465f-a45a-ff5042b1094e")
+		)
+		(pin "12"
+			(uuid "c4b33522-69db-4b21-a33b-a2367d3b3ba4")
+		)
+		(pin "27"
+			(uuid "78c0c436-ade0-4e98-a132-b5c16dcd3dd2")
+		)
+		(pin "9"
+			(uuid "a150f1dd-4054-4810-81f9-3dc06b72a653")
+		)
+		(pin "31"
+			(uuid "8dd57b52-ed56-4faa-a25d-117d7a78876b")
+		)
+		(pin "38"
+			(uuid "62764e17-890e-4a60-90d2-1c160a1ba255")
+		)
+		(pin "21"
+			(uuid "2ecd6af9-0ec6-4d85-8312-ff99ac49898b")
+		)
+		(pin "24"
+			(uuid "b8528cf6-7f6f-4153-b089-34ea270d7970")
+		)
+		(pin "33"
+			(uuid "822300e2-f7ed-4097-b801-66cf10b93ebd")
+		)
+		(pin "25"
+			(uuid "465c7e1e-efc1-411d-bccb-10b00dbc9365")
+		)
+		(pin "2"
+			(uuid "428e5314-4bb4-47f2-976a-67bc5b12a53f")
+		)
+		(pin "17"
+			(uuid "cd68df49-487d-4a74-831a-f7a716a7c84b")
+		)
+		(pin "26"
+			(uuid "b0ae5793-5d28-4e4b-98e3-6f00e6888d6e")
+		)
+		(pin "39"
+			(uuid "4c636c1c-6a10-4c3a-a222-80e58e5405f4")
+		)
+		(pin "18"
+			(uuid "41db5c50-a155-40e8-9716-06ea1c204d92")
+		)
+		(pin "40"
+			(uuid "6e9ed06f-c41b-4178-bace-761bc6db5162")
+		)
+		(instances
+			(project ""
+				(path "/6fc2cf20-97f5-428b-b4f2-cc46fb7cae3a"
+					(reference "A1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_SL_Breakout_Boards:MPU6050")
+		(at 35.56 39.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fb618e17-09cb-4429-be5c-f5c769f520cf")
+		(property "Reference" "U1"
+			(at 37.7541 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MPU6050"
+			(at 37.7541 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_SL_Breakout_Boards:MPU6050_Breakout"
+			(at 36.83 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 24.13 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "MPU6050 Breakout Board, 6-Axis Motion Sensor, Gyroscope, Accelerometer"
+			(at 35.56 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "f7911027-5c70-47d2-9c6c-69975d1d02eb")
+		)
+		(pin "2"
+			(uuid "3d7f10da-5fa8-4ecc-8238-34e8b85fc853")
+		)
+		(pin "6"
+			(uuid "264255a4-3a9d-4794-a7c5-647c5e7f4319")
+		)
+		(pin "3"
+			(uuid "2a23613f-0246-41c6-8cd5-0390e7b7fe02")
+		)
+		(pin "1"
+			(uuid "0a4c9673-dd78-44ce-96ee-d34f78131f2d")
+		)
+		(pin "5"
+			(uuid "5519e5d8-bd40-4773-9e4f-5d76a0b5da37")
+		)
+		(pin "8"
+			(uuid "a524bf1e-66c0-4c43-b8d5-727639d5c81f")
+		)
+		(pin "4"
+			(uuid "6d759148-9f8f-478e-8afc-faf921f59ce9")
+		)
+		(instances
+			(project ""
+				(path "/6fc2cf20-97f5-428b-b4f2-cc46fb7cae3a"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_SL_Breakout_Boards:MPU6050")
+		(at 81.28 130.81 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fe5424c7-45f0-4dc3-babc-bd044aa34606")
+		(property "Reference" "U8"
+			(at 83.4741 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MPU6050"
+			(at 83.4741 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_SL_Breakout_Boards:MPU6050_Breakout"
+			(at 82.55 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 69.85 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "MPU6050 Breakout Board, 6-Axis Motion Sensor, Gyroscope, Accelerometer"
+			(at 81.28 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "42518bbe-f544-4637-8082-0e6cd5e03a0f")
+		)
+		(pin "2"
+			(uuid "930523ba-7581-477b-9a51-a7f301f8e730")
+		)
+		(pin "6"
+			(uuid "f428b48d-094a-493c-aa85-22d024b4cef7")
+		)
+		(pin "3"
+			(uuid "2c8c76e7-7662-4ad7-b79d-049160441871")
+		)
+		(pin "1"
+			(uuid "5f7dfdbd-78d4-403a-a47e-51296ca6db49")
+		)
+		(pin "5"
+			(uuid "b3d2bcea-7a77-4977-9a82-75a3d4a1e7a1")
+		)
+		(pin "8"
+			(uuid "e8b70afa-6150-42ff-bc9e-a0aaa27e7373")
+		)
+		(pin "4"
+			(uuid "318daac9-8e5b-47f6-b46b-ea6c74484ae2")
+		)
+		(instances
+			(project "imu-array"
+				(path "/6fc2cf20-97f5-428b-b4f2-cc46fb7cae3a"
+					(reference "U8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

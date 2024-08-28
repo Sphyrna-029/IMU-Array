@@ -1,0 +1,17 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type,place
+194.68,-99.75,-90.0,top,A1,,,raspberry_pi_pico_SMD,Raspberry_Pi_Pico_SMD,smt,True
+196.5,-70.1,90.0,bottom,BT1,,None,BAT_BK-18650-PC2,BK-18650-PC2,tht,True
+173.97,-70.215,90.0,bottom,BT2,,None,BAT_BK-18650-PC2,BK-18650-PC2,tht,True
+152.5,-33.0,0.0,top,H1,,,MountingHole_3.2mm_M3,MountingHole_M3,tht,True
+217.5,-33.0,0.0,top,H2,,,MountingHole_3.2mm_M3,MountingHole_M3,tht,True
+217.0,-116.5,0.0,top,H3,,,MountingHole_3.2mm_M3,MountingHole_M3,tht,True
+153.0,-117.0,0.0,top,H4,,,MountingHole_3.2mm_M3,MountingHole_M3,tht,True
+152.0,-39.5,0.0,top,U1,,,MPU6050_Breakout,MPU6050,tht,True
+176.0,-39.5,0.0,top,U2,,,MPU6050_Breakout,MPU6050,tht,True
+200.0,-39.5,0.0,top,U3,,,MPU6050_Breakout,MPU6050,tht,True
+151.96,-56.25,0.0,top,U4,,,MPU6050_Breakout,MPU6050,tht,True
+176.0,-56.25,0.0,top,U5,,,MPU6050_Breakout,MPU6050,tht,True
+200.0,-56.25,0.0,top,U6,,,MPU6050_Breakout,MPU6050,tht,True
+152.0,-73.25,0.0,top,U7,,,MPU6050_Breakout,MPU6050,tht,True
+176.0,-73.25,0.0,top,U8,,,MPU6050_Breakout,MPU6050,tht,True
+200.0,-73.25,0.0,top,U9,,,MPU6050_Breakout,MPU6050,tht,True

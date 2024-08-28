@@ -1,0 +1,7 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,MF,MAXIMUM_PACKAGE_HEIGHT,Price,Check_prices,STANDARD,PARTREV,SnapEDA_Link,MP,Description_1,Availability,MANUFACTURER
+A1,1,Raspberry_Pi_Pico_SMD,raspberry_pi_pico_SMD,,,,smt,Development Board with RP2040 MCU,,,,,,,,,,,
+"BT1, BT2",2,BK-18650-PC2,BAT_BK-18650-PC2,None,,,tht,,MPD (Memory Protection Devices),21.41 mm,None,https://www.snapeda.com/parts/BK-18650-PC2/Memory+Protection+Devices/view-part/?ref=eda,Manufacturer Recommendations,F,https://www.snapeda.com/parts/BK-18650-PC2/Memory+Protection+Devices/view-part/?ref=snap,BK-18650-PC2,"
+Battery Holder (Open) 18650 1 Cell PC Pin
+",In Stock,MPD
+"H1, H2, H3, H4",4,MountingHole_M3,MountingHole_3.2mm_M3,,,,tht,3.2mm Diameter Mounting Hole (M3),,,,,,,,,,,
+"U1, U2, U3, U4, U5, U6, U7, U8, U9",9,MPU6050,MPU6050_Breakout,,,,tht,"MPU6050 Breakout Board, 6-Axis Motion Sensor, Gyroscope, Accelerometer",,,,,,,,,,,
